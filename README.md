@@ -7,7 +7,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 💼 Data science
+  
 -👨‍💻 Building: <a href="https://motifhunt.onrender.com/" target="_blank" style="color: inherit">MotifHunts</a> --> A <a href="#" target="_blank" style="color: inherit">Summarize video's </a>
+
 -👨‍💻 Building: <a href="https://arabicpdf.onrender.com" target="_blank" style="color: inherit">ArabicPdf</a> --> A <a href="#" target="_blank" style="color: inherit">Generator for arabic pdf using prompt </a>
 
 
